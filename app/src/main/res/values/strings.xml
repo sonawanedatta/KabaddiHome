@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kabaddi</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Login</string>
+    <string name="facebook_app_id">1879010315762482</string>
+    <string name="fb_login_protocol_scheme">fb1879010315762482</string>
+</resources>
